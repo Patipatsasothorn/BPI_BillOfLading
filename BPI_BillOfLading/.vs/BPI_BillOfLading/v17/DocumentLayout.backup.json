@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER069\\Desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - Master_2025_02_07\\BPI_BillOfLading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B367657E-2ACC-4FBA-87FC-9A5E0DE6BDBB}|BPI_BillOfLading\\BPI_BillOfLading.csproj|c:\\users\\user069\\desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - master_2025_02_07\\bpi_billoflading\\bpi_billoflading\\views\\pickup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B367657E-2ACC-4FBA-87FC-9A5E0DE6BDBB}|BPI_BillOfLading\\BPI_BillOfLading.csproj|solutionrelative:bpi_billoflading\\views\\pickup\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367657E-2ACC-4FBA-87FC-9A5E0DE6BDBB}|BPI_BillOfLading\\BPI_BillOfLading.csproj|c:\\users\\user069\\desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - master_2025_02_07\\bpi_billoflading\\bpi_billoflading\\controllers\\pickupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367657E-2ACC-4FBA-87FC-9A5E0DE6BDBB}|BPI_BillOfLading\\BPI_BillOfLading.csproj|solutionrelative:bpi_billoflading\\controllers\\pickupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367657E-2ACC-4FBA-87FC-9A5E0DE6BDBB}|BPI_BillOfLading\\BPI_BillOfLading.csproj|c:\\users\\user069\\desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - master_2025_02_07\\bpi_billoflading\\bpi_billoflading\\models\\pickupmodel\\partmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367657E-2ACC-4FBA-87FC-9A5E0DE6BDBB}|BPI_BillOfLading\\BPI_BillOfLading.csproj|solutionrelative:bpi_billoflading\\models\\pickupmodel\\partmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B367657E-2ACC-4FBA-87FC-9A5E0DE6BDBB}|BPI_BillOfLading\\BPI_BillOfLading.csproj|c:\\users\\user069\\desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - master_2025_02_07\\bpi_billoflading\\bpi_billoflading\\models\\pickupmodel\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B367657E-2ACC-4FBA-87FC-9A5E0DE6BDBB}|BPI_BillOfLading\\BPI_BillOfLading.csproj|solutionrelative:bpi_billoflading\\models\\pickupmodel\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER069\\Desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - Master_2025_02_07\\BPI_BillOfLading\\BPI_BillOfLading\\Views\\PickUp\\Index.cshtml",
+              "RelativeDocumentMoniker": "BPI_BillOfLading\\Views\\PickUp\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER069\\Desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - Master_2025_02_07\\BPI_BillOfLading\\BPI_BillOfLading\\Views\\PickUp\\Index.cshtml",
+              "RelativeToolTip": "BPI_BillOfLading\\Views\\PickUp\\Index.cshtml",
+              "ViewState": "AgIAAAsEAAAAAAAAAAAAACMEAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T15:28:34.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PickUpController.cs",
+              "DocumentMoniker": "C:\\Users\\USER069\\Desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - Master_2025_02_07\\BPI_BillOfLading\\BPI_BillOfLading\\Controllers\\PickUpController.cs",
+              "RelativeDocumentMoniker": "BPI_BillOfLading\\Controllers\\PickUpController.cs",
+              "ToolTip": "C:\\Users\\USER069\\Desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - Master_2025_02_07\\BPI_BillOfLading\\BPI_BillOfLading\\Controllers\\PickUpController.cs",
+              "RelativeToolTip": "BPI_BillOfLading\\Controllers\\PickUpController.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAswPQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:18:00.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER069\\Desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - Master_2025_02_07\\BPI_BillOfLading\\BPI_BillOfLading\\Models\\PickUpModel\\DocumentModel.cs",
+              "RelativeDocumentMoniker": "BPI_BillOfLading\\Models\\PickUpModel\\DocumentModel.cs",
+              "ToolTip": "C:\\Users\\USER069\\Desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - Master_2025_02_07\\BPI_BillOfLading\\BPI_BillOfLading\\Models\\PickUpModel\\DocumentModel.cs",
+              "RelativeToolTip": "BPI_BillOfLading\\Models\\PickUpModel\\DocumentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:17:48.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER069\\Desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - Master_2025_02_07\\BPI_BillOfLading\\BPI_BillOfLading\\Models\\PickUpModel\\PartModel.cs",
+              "RelativeDocumentMoniker": "BPI_BillOfLading\\Models\\PickUpModel\\PartModel.cs",
+              "ToolTip": "C:\\Users\\USER069\\Desktop\\\u0E40\u0E1A\u0E34\u0E01\u0E02\u0E2D\u0E07 - Master_2025_02_07\\BPI_BillOfLading\\BPI_BillOfLading\\Models\\PickUpModel\\PartModel.cs",
+              "RelativeToolTip": "BPI_BillOfLading\\Models\\PickUpModel\\PartModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:17:44.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
